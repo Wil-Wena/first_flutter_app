@@ -1,4 +1,4 @@
-import 'package:first_flutter_app/constants/app_constants.dart';
+
 import 'package:flutter/material.dart';
 
 class RightBar extends StatelessWidget {
