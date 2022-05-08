@@ -1,5 +1,6 @@
 # first_flutter_app
-
+It's a BMI Calculator. The user enters the height and weight and it does the calculation of the BMI for him/her.
+It also tells the user if the indiviual is has over, under or normal weight.
 A new Flutter project.
 
 ## Getting Started
